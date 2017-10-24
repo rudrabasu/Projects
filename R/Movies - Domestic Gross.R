@@ -1,4 +1,4 @@
-# Homework - Movies - Domestic Gross % by Genre
+# Movies - Domestic Gross % by Genre
 
 
 getwd()       # checking our working directory
